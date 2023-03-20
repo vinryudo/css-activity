@@ -11,7 +11,7 @@ body {
   padding-right: 50px;
   padding-bottom: 30px;
   width: 45%; 
-  height: 40%;
+  height: 45%;
   background-color: white; 
   box-shadow: 0 0 8px black; 
   margin: 0;
@@ -54,7 +54,7 @@ body {
   padding-left: 40px;
   padding-right: 40px;
   padding-top: 10px;
-  padding-bottom: 10px; 
+  padding-bottom: 10px;
 }
 
 .social-link:hover {
