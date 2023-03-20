@@ -41,14 +41,14 @@ body {
 
 .bio {
   font-family: sans-serif;
-  font-size: 14px;
+  font-size: 11px;
 }
 
 .social-link {  
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 20;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 12px;
   color: rgb(0, 134, 218);
   border-radius: 20px;
   padding-left: 40px;
